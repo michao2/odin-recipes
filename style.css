@@ -1,0 +1,22 @@
+#title {
+    background-color: aqua;
+}
+
+.img {
+    align-items: center;
+}
+
+.links {
+    background-color: beige;
+    font:bolder
+
+}
+
+#instruction {
+    border: 2px solid powderblue;
+    padding: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch:extra-expanded;
+}
+
+
